@@ -26,6 +26,7 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
 <a href="https://tryhackme.com/p/AniDigit" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/AniDigit.png" alt="TryHackMe" alt="TryHackMe" height=60 width=250/>
+    <a href="https://www.hackthebox.com/profile/1353253" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/1353253" alt="Hackthebox" height=60 width=250/>
 ---    
     
 ## 📌 Languages and Tools
