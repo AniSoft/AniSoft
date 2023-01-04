@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/code.gif" width=400 align=right />
 
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently learning Cyber Security and Ethical Hacking
 
 📓 All of my Blogs available at http://www.anidigit.com/blog/
@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
+## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences
 <a href="https://tryhackme.com/p/AniDigit" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/AniDigit.png" alt="TryHackMe" alt="TryHackMe" height=60 width=250/>
     <a href="https://www.hackthebox.com/profile/1353253" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/1353253" alt="Hackthebox" height=60 width=250/>
 ---    
