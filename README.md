@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/code.gif" width=400 align=right />
 
 # 💫 About Me:
-🔭 I’m currently learning ...
+🔭 I’m currently learning Cyber Security and Ethical Hacking
 
 📓 All of my Blogs available at http://www.anidigit.com/blog/
 
